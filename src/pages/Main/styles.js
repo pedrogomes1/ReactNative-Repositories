@@ -40,6 +40,10 @@ export const List = styled.FlatList.attrs({
   margin-top: 20px;
 `;
 
+export const DeleteButton = styled(RectButton)`
+  margin-left: auto;
+`;
+
 export const User = styled.View`
   align-items: center;
   margin: 0 20px 30px;
