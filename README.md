@@ -16,8 +16,8 @@ A aplicação tem como objetivo adicionar usuários cadastrados no github e list
 
 #### Comandos necessários para utilizar a aplicação (necessário estar com o emulador android/ios inicializado):
 ````
-git clone https://github.com/PedroGomes1/ReactJS-Repositories.git
-cd ReactJS-Repositories
+git clone https://github.com/PedroGomes1/ReactNative-Repositories
+cd ReactNative-Repositories
 yarn
 react-native start
 ````
