@@ -1,4 +1,4 @@
- ## Aplicação ReactJS :rocket:
+ ## Aplicação React Native :rocket:
 
 ## :computer: Projeto
 
